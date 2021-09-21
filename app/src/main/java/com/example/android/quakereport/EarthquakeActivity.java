@@ -38,7 +38,7 @@ public class EarthquakeActivity extends AppCompatActivity
      * This really only comes into play if you're using mutiple loaders.
      */
 
-    
+
     private static final int EARTHQUAKE_LOADER_ID = 1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
